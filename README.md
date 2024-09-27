@@ -1,1 +1,1 @@
-# mws_cup
+# MWS Cup
